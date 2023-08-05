@@ -1,12 +1,12 @@
 {
-  "name": "CheemsBot-Multi-Auth-Session",
+  "name": "HBWABot Mizo",
   "version": "1.0.0",
   "description": "Multi auth session generator for whatsapp bot ",
   "main": "index.js",
   "scripts": {
     "start": "node ."
   },
-  "author": "DGXeon",
+  "author": "HBMods",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.9",
